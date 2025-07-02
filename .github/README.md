@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹𝐁ʀᴀɴᴅᴇᴅ ꭙ 𝐂ʀᴇᴡ ꭙ 𝐌ᴜꜱɪᴄ™ ˹ʙꜱ](https://t.me/TojiMusicRobot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ](https://t.me/TojiMusicRobot)**
 
 
 
@@ -98,11 +98,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+sRMHl58lWolhMTdl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TheAuraNetwork"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ](https://github.com/Auraperson) ғᴏʀ [𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ]([https://t.me/TojiMusicRobot](https://t.me/ShreyaMusicRobot))_</b>
