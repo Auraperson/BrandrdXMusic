@@ -73,10 +73,10 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝐀𝐔𝐑𝐀", url=f"https://t.me/TheAuraNetwork"
+                text="𝐀𝐔𝐑𝐀", url=f"https://t.me/AuraVisual"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/+sRMHl58lWolhMTdl"
+                text="sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/HeavenChatGroup"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -113,7 +113,7 @@ def queuemarkup(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/+sRMHl58lWolhMTdl",
+                url="https://t.me/AuraNumbers",
             ),
         ],
     ]
