@@ -71,10 +71,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("@TheAuraNetwork")
+                await self.one.join_chat("@AuraVisual")
                 await self.one.join_chat("@AuraNumbers")
-                await self.one.join_chat("@Yadavperson")
-                await self.one.join_chat("@Yadavperson")
+                await self.one.join_chat("@UseSense")
+                await self.one.join_chat("@HeavenChatGroup")
 
             except:
                 pass
@@ -101,10 +101,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("@TheAuraNetwork")
+                await self.two.join_chat("@AuraVisual")
                 await self.two.join_chat("@AuraNumbers")
-                await self.two.join_chat("@Yadavperson")
-                await self.two.join_chat("@Yadavperson")
+                await self.two.join_chat("@UseSense")
+                await self.two.join_chat("@HeavenChatGroup")
             except:
                 pass
             assistants.append(2)
@@ -125,10 +125,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("@TheAuraNetwork")
+                await self.three.join_chat("@AuraVisual")
                 await self.three.join_chat("@AuraNumbers")
-                await self.three.join_chat("@Yadavperson")
-                await self.three.join_chat("@Yadavperson")
+                await self.three.join_chat("@UseSense")
+                await self.three.join_chat("@HeavenChatGroup")
             except:
                 pass
             assistants.append(3)
@@ -148,10 +148,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("@TheAuraNetwork")
+                await self.four.join_chat("@AuraVisual")
                 await self.four.join_chat("@AuraNumbers")
-                await self.four.join_chat("@Yadavperson")
-                await self.four.join_chat("@Yadavperson")
+                await self.four.join_chat("@UseSense")
+                await self.four.join_chat("@HeavenChatGroup")
             except:
                 pass
             assistants.append(4)
@@ -171,10 +171,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("@TheAuraNetwork")
+                await self.five.join_chat("@AuraVisual")
                 await self.five.join_chat("@AuraNumbers")
-                await self.five.join_chat("@Yadavperson")
-                await self.five.join_chat("@Yadavperson")
+                await self.five.join_chat("@UseSense")
+                await self.five.join_chat("@HeavenChatGroup")
             except:
                 pass
             assistants.append(5)
